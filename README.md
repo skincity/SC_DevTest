@@ -1,6 +1,6 @@
 ![GitHub Logo](https://skincity.se/themes/skincity_ver2.0/design/bilder/butik/logo_skincity.svg)
 
-# SCDevTest
+# Skincity Dev Test
 
 Create a server (with a js library of your choosing). Have an endpoint return a list of skin types: 
 
