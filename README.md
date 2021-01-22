@@ -1,4 +1,4 @@
-![GitHub Logo](https://skincity.se/themes/skincity_ver2.0/design/bilder/butik/logo_skincity.svg)
+![GitHub Logo](https://hudspecialisten.se/content/uploads/2011/10/skincity_logo.jpg)
 
 # Skincity Dev Test
 
